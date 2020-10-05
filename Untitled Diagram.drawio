@@ -1,17 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2020-10-05T17:33:40.177Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="4RM8hcdhcvkcTIq53h-g" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-05T17:44:02.246Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="maJN6y9M-XyF7eoOFkRL" version="13.7.7" type="github">
   <diagram id="I_Di6sEIPElMC3I-nAi-" name="Page-1">
-    <mxGraphModel dx="1185" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="813" dy="435" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="gq6QbgiBmz24k4WDsFfc-3" value="&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Static Typing&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;easier to read code in TS&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;protection from most standard types of errors while writing code&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;makes refactoring much easier&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;improves typing speed (tips for contracts, fields)&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;gradientDirection=south;gradientColor=#3333FF;fontColor=#E3E3E3;fillColor=#B266FF;rounded=1;glass=0;shadow=1;sketch=0;align=left;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="30" y="90" width="200" height="200" as="geometry" />
+        <mxCell id="gq6QbgiBmz24k4WDsFfc-3" value="&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Static Typing&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;easier to read code in TS&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;protection from most standard types of errors while writing code&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;makes refactoring much easier&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;improves typing speed (tips for contracts, fields by using interfaces and complex types and enumerations&lt;/span&gt;)&lt;/li&gt;&lt;li&gt;refactoring becomes quick and automatic with the help of IDE&lt;/li&gt;&lt;li&gt;readability and self-documenting&lt;/li&gt;&lt;li&gt;applicability of common patterns and practices&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;gradientDirection=south;gradientColor=#3333FF;fontColor=#E3E3E3;fillColor=#B266FF;rounded=1;glass=0;shadow=1;sketch=0;align=left;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="30" y="90" width="230" height="230" as="geometry" />
         </mxCell>
         <mxCell id="gq6QbgiBmz24k4WDsFfc-1" value="Typescript for the Front-End" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#424242;gradientColor=#CC0066;fontColor=#40FFB3;" vertex="1" parent="1">
           <mxGeometry x="324" y="10" width="180" height="20" as="geometry" />
         </mxCell>
         <mxCell id="gq6QbgiBmz24k4WDsFfc-5" value="OOP Patterns &amp;amp;&lt;br&gt;Best Practices" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF66FF;gradientColor=#0000CC;fontColor=#DBDBDB;shadow=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="270" y="90" width="120" height="60" as="geometry" />
+          <mxGeometry x="300" y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gq6QbgiBmz24k4WDsFfc-8" value="" style="curved=1;endArrow=classic;html=1;fontColor=#E3E3E3;entryX=0.533;entryY=0.008;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="gq6QbgiBmz24k4WDsFfc-1" target="gq6QbgiBmz24k4WDsFfc-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -27,7 +27,7 @@
             <mxPoint x="430" y="230" as="sourcePoint" />
             <mxPoint x="480" y="180" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="335" y="40" />
+              <mxPoint x="360" y="40" />
             </Array>
           </mxGeometry>
         </mxCell>
