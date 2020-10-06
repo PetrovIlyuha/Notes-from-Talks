@@ -1,19 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2020-10-05T18:35:31.078Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="oTsPGaQpHEnx2n1HjcyE" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-06T05:52:56.217Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="sHp7lNw-Ad17-5HC88JS" version="13.7.7" type="github">
   <diagram id="I_Di6sEIPElMC3I-nAi-" name="Page-1">
-    <mxGraphModel dx="1185" dy="635" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#CCFF99" math="0" shadow="0">
+    <mxGraphModel dx="3555" dy="1905" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="10000" pageHeight="5000" background="#765BC2" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="gq6QbgiBmz24k4WDsFfc-3" value="&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Static Typing&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;easier to read code in TS&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;protection from most standard types of errors while writing code&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;makes refactoring much easier&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;improves typing speed (tips for contracts, fields by using interfaces and complex types and enumerations&lt;/span&gt;)&lt;/li&gt;&lt;li&gt;refactoring becomes quick and automatic with the help of IDE&lt;/li&gt;&lt;li&gt;readability and self-documenting&lt;/li&gt;&lt;li&gt;applicability of common patterns and practices&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;gradientDirection=south;gradientColor=#3333FF;fontColor=#E3E3E3;fillColor=#B266FF;rounded=1;glass=0;shadow=1;sketch=0;align=left;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="175" y="162" width="230" height="230" as="geometry" />
+        <mxCell id="JJGqAXCRzj6Gm3iAd60K-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="146" y="58" width="1126" height="393" as="geometry" />
         </mxCell>
-        <mxCell id="gq6QbgiBmz24k4WDsFfc-1" value="Typescript for the Front-End" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#424242;gradientColor=#CC0066;fontColor=#40FFB3;" vertex="1" parent="1">
-          <mxGeometry x="353" y="35" width="196" height="40" as="geometry" />
+        <mxCell id="gq6QbgiBmz24k4WDsFfc-3" value="&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Static Typing&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;easier to read code in TS&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;protection from most standard types of errors while writing code&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;makes refactoring much easier&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;improves typing speed (tips for contracts, fields by using interfaces and complex types and enumerations&lt;/span&gt;)&lt;/li&gt;&lt;li&gt;refactoring becomes quick and automatic with the help of IDE&lt;/li&gt;&lt;li&gt;readability and self-documenting&lt;/li&gt;&lt;li&gt;applicability of common patterns and practices&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;gradientDirection=south;gradientColor=#3333FF;fontColor=#E3E3E3;fillColor=#B266FF;rounded=1;glass=0;shadow=1;sketch=0;align=left;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="170" y="207" width="230" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="gq6QbgiBmz24k4WDsFfc-5" value="OOP Patterns &amp;amp;&lt;br&gt;Best Practices" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF66FF;gradientColor=#0000CC;fontColor=#DBDBDB;shadow=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="506" y="162" width="120" height="60" as="geometry" />
+        <mxCell id="gq6QbgiBmz24k4WDsFfc-1" value="Typescript for the Front-End" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#424242;gradientColor=#CC0066;fontColor=#40FFB3;" parent="1" vertex="1">
+          <mxGeometry x="348" y="80" width="196" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="gq6QbgiBmz24k4WDsFfc-8" value="" style="curved=1;endArrow=classic;html=1;fontColor=#E3E3E3;entryX=0.533;entryY=0.008;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.418;exitY=0.983;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="gq6QbgiBmz24k4WDsFfc-1" target="gq6QbgiBmz24k4WDsFfc-3">
+        <mxCell id="gq6QbgiBmz24k4WDsFfc-5" value="OOP Patterns &amp;amp;&lt;br&gt;Best Practices" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF66FF;gradientColor=#0000CC;fontColor=#DBDBDB;shadow=1;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="501" y="207" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gq6QbgiBmz24k4WDsFfc-8" value="" style="curved=1;endArrow=classic;html=1;fontColor=#E3E3E3;entryX=0.533;entryY=0.008;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.418;exitY=0.983;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="gq6QbgiBmz24k4WDsFfc-1" target="gq6QbgiBmz24k4WDsFfc-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="430" y="230" as="sourcePoint" />
             <mxPoint x="480" y="180" as="targetPoint" />
@@ -22,7 +25,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="gq6QbgiBmz24k4WDsFfc-9" value="" style="curved=1;endArrow=classic;html=1;fontColor=#E3E3E3;entryX=0.458;entryY=-0.014;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="gq6QbgiBmz24k4WDsFfc-1" target="gq6QbgiBmz24k4WDsFfc-5">
+        <mxCell id="gq6QbgiBmz24k4WDsFfc-9" value="" style="curved=1;endArrow=classic;html=1;fontColor=#E3E3E3;entryX=0.458;entryY=-0.014;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="gq6QbgiBmz24k4WDsFfc-1" target="gq6QbgiBmz24k4WDsFfc-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="430" y="230" as="sourcePoint" />
             <mxPoint x="480" y="180" as="targetPoint" />
@@ -31,32 +34,35 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="gq6QbgiBmz24k4WDsFfc-15" value="How To start using TS" style="rhombus;whiteSpace=wrap;html=1;rounded=1;shadow=1;glass=0;sketch=0;strokeColor=#000000;fillColor=#424242;gradientColor=#CC0066;fontColor=#40FFB3;" vertex="1" parent="1">
-          <mxGeometry x="835" y="15" width="232" height="123" as="geometry" />
+        <mxCell id="gq6QbgiBmz24k4WDsFfc-15" value="How To start using TS" style="rhombus;whiteSpace=wrap;html=1;rounded=1;shadow=1;glass=0;sketch=0;strokeColor=#000000;fillColor=#424242;gradientColor=#CC0066;fontColor=#40FFB3;" parent="1" vertex="1">
+          <mxGeometry x="830" y="60" width="232" height="123" as="geometry" />
         </mxCell>
-        <mxCell id="gq6QbgiBmz24k4WDsFfc-16" value="&lt;div style=&quot;text-align: center&quot;&gt;&lt;span&gt;New Project:&lt;/span&gt;&lt;/div&gt;&lt;ul style=&quot;font-size: 10px&quot;&gt;&lt;li style=&quot;font-size: 10px&quot;&gt;npm install --save-dev typescript ts-loader&lt;/li&gt;&lt;li style=&quot;font-size: 10px&quot;&gt;create tsconfing.json&lt;/li&gt;&lt;li style=&quot;font-size: 10px&quot;&gt;setup compiler strictness&lt;/li&gt;&lt;li style=&quot;font-size: 10px&quot;&gt;tsc --outDir ./dist or replace loader in webpack.config.js&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;glass=0;sketch=0;strokeColor=#000000;fillColor=#424242;gradientColor=#CC0066;fontColor=#40FFB3;fontSize=10;align=left;" vertex="1" parent="1">
-          <mxGeometry x="667" y="197" width="300" height="122" as="geometry" />
+        <mxCell id="gq6QbgiBmz24k4WDsFfc-16" value="&lt;div style=&quot;text-align: center&quot;&gt;&lt;span&gt;New Project:&lt;/span&gt;&lt;/div&gt;&lt;ul style=&quot;font-size: 10px&quot;&gt;&lt;li style=&quot;font-size: 10px&quot;&gt;npm install --save-dev typescript ts-loader&lt;/li&gt;&lt;li style=&quot;font-size: 10px&quot;&gt;create tsconfing.json&lt;/li&gt;&lt;li style=&quot;font-size: 10px&quot;&gt;setup compiler strictness&lt;/li&gt;&lt;li style=&quot;font-size: 10px&quot;&gt;tsc --outDir ./dist or replace loader in webpack.config.js&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;glass=0;sketch=0;strokeColor=#000000;fillColor=#424242;gradientColor=#CC0066;fontColor=#40FFB3;fontSize=10;align=left;" parent="1" vertex="1">
+          <mxGeometry x="662" y="242" width="300" height="122" as="geometry" />
         </mxCell>
-        <mxCell id="gq6QbgiBmz24k4WDsFfc-24" value="" style="shape=flexArrow;endArrow=classic;html=1;entryX=0.519;entryY=0.005;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=#FF99CC;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="gq6QbgiBmz24k4WDsFfc-15" target="gq6QbgiBmz24k4WDsFfc-16">
+        <mxCell id="gq6QbgiBmz24k4WDsFfc-24" value="" style="shape=flexArrow;endArrow=classic;html=1;entryX=0.519;entryY=0.005;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=#FF99CC;exitX=0;exitY=1;exitDx=0;exitDy=0;" parent="1" source="gq6QbgiBmz24k4WDsFfc-15" target="gq6QbgiBmz24k4WDsFfc-16" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="631" y="260" as="sourcePoint" />
             <mxPoint x="681" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gq6QbgiBmz24k4WDsFfc-25" value="" style="shape=flexArrow;endArrow=classic;html=1;exitX=0.706;exitY=0.79;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="gq6QbgiBmz24k4WDsFfc-19">
+        <mxCell id="gq6QbgiBmz24k4WDsFfc-25" value="" style="shape=flexArrow;endArrow=classic;html=1;exitX=0.706;exitY=0.79;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="gq6QbgiBmz24k4WDsFfc-19" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="914.3178818608503" y="132.1426701245025" as="sourcePoint" />
             <mxPoint x="1089" y="276" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gq6QbgiBmz24k4WDsFfc-19" value="&lt;div style=&quot;text-align: center&quot;&gt;&lt;span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Existing project&lt;/span&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;add allowJs: true to tsconfig.json&lt;/li&gt;&lt;li&gt;starting renaming .js to .ts filenames and adding types&lt;/li&gt;&lt;li&gt;enable rules one by one&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;glass=0;sketch=0;strokeColor=#000000;fillColor=#424242;gradientColor=#CC0066;fontSize=10;fontColor=#40FFB3;align=left;" vertex="1" parent="1">
-          <mxGeometry x="1008" y="196" width="236" height="123" as="geometry" />
+        <mxCell id="gq6QbgiBmz24k4WDsFfc-19" value="&lt;div style=&quot;text-align: center&quot;&gt;&lt;span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Existing project&lt;/span&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;add allowJs: true to tsconfig.json&lt;/li&gt;&lt;li&gt;starting renaming .js to .ts filenames and adding types&lt;/li&gt;&lt;li&gt;enable rules one by one&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;glass=0;sketch=0;strokeColor=#000000;fillColor=#424242;gradientColor=#CC0066;fontSize=10;fontColor=#40FFB3;align=left;" parent="1" vertex="1">
+          <mxGeometry x="1003" y="241" width="236" height="123" as="geometry" />
         </mxCell>
-        <mxCell id="gq6QbgiBmz24k4WDsFfc-26" value="" style="shape=flexArrow;endArrow=classic;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="gq6QbgiBmz24k4WDsFfc-15" target="gq6QbgiBmz24k4WDsFfc-19">
+        <mxCell id="gq6QbgiBmz24k4WDsFfc-26" value="" style="shape=flexArrow;endArrow=classic;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" source="gq6QbgiBmz24k4WDsFfc-15" target="gq6QbgiBmz24k4WDsFfc-19" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="993" y="112" as="sourcePoint" />
             <mxPoint x="1089" y="276.0000000000001" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="JJGqAXCRzj6Gm3iAd60K-2" value="Typescript on the front&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=5" vertex="1" parent="1">
+          <mxGeometry x="649" y="72" width="133" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
